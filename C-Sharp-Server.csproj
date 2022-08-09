@@ -191,6 +191,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\SampleApiService.cs" />
+    <Compile Include="src\SampleServiceHttpClient.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
